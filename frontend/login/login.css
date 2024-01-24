@@ -2,6 +2,7 @@
 body {
     font-family: inherit;
     background-image: linear-gradient(to right, #d4f1e1, #93a5cf );
+    background-repeat: no-repeat;   
 }
 
 h1{
